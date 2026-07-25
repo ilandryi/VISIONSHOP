@@ -84,5 +84,6 @@ During the design process, challenges included learning how to use Figma, organi
 KoraShop demonstrates the design process of an e-commerce application from initial planning and wireframes to high-fidelity interface design and interactive prototyping. The final prototype focuses on simple navigation and a clear shopping journey, helping users discover products and complete purchases efficiently.
 21. Links
 Public Figma Project: https://www.figma.com/design/xL0oLOzoLpF9zVZaBatiiV/MIS-work?node-id=0-1&t=54dvjUWeOPela2d4-1
-GitHub Repository: 
+
+GitHub Repository: https://github.com/ilandryi/VISIONSHOP
 
